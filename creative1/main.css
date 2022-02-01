@@ -98,7 +98,7 @@ a:hover {
   top: 610px;
   left: 750px;
   transform: translate(-50%, -50%);
-  
+  margin-top: 20px;
   color: white;
 }
 
